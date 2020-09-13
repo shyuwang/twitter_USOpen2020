@@ -1,4 +1,4 @@
-In this project, I obtained realtime tweets using [python-twitter](https://github.com/bear/python-twitter) wrapper, and then processed the tweets using Apache Spark Streaming to identify mentioned users with search keyword *USOpen*, and finally returned top 20 popular mentioned users and visualized them with bar plots.
+In this project, I aim to study how Twitter API works and how Spark Streaming integrates with it. More specifically, I obtained realtime tweets using [python-twitter](https://github.com/bear/python-twitter) wrapper, and then processed the tweets using Apache Spark Streaming to identify mentioned users with search keyword *USOpen*, and finally returned top 20 popular mentioned users and visualized them with bar plots.
 
 
 ## 1. Obtain realtime tweets from Twitter
